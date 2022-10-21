@@ -1,5 +1,5 @@
 <template>
-  <aside class="fixed top-0 left-0 w-64 h-full" aria-label="Sidenav">
+  <aside class="fixed top-0 left-0 w-1/4 h-full" aria-label="Sidenav">
     <div
       class="overflow-y-auto py-5 px-3 h-full bg-blue-200 border-r border-gray-200 dark:bg-gray-800 dark:border-gray-700"
     >
